@@ -1,0 +1,42 @@
+	div#formulario {
+		width:500px; 
+		border:2px solid black; 
+		border-radius:5px; 
+		text-align:center; 
+		padding:20px; 
+		margin:auto; 
+		background: lightblue;
+	}
+	div#ficha {
+		width:500px; 
+		border:2px solid black; 
+		border-radius:5px; 
+		padding:20px; 
+		margin:auto; 
+		background: lightblue;
+	}
+	h2 {text-align: center;}
+	div#resultados {
+		width:500px; 
+		border:2px solid black; 
+		border-radius:5px;  
+		padding:20px; 
+		margin:auto; 
+	}
+	label {
+		display: inline-block;
+		width: 120px;
+		font-family: arial;
+		font-size: 1.2em;
+	}
+	
+	#actores p:nth-child(odd) {background: salmon;}
+	#actores p:nth-child(even) {background: cyan;}
+	#paginas span {color:blue; cursor:pointer;}
+	#paginas {
+		width:500px; 
+		text-align:left; 
+		padding:20px; 
+		margin:auto; 
+		
+	}
